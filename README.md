@@ -1,5 +1,7 @@
 ## I'm davitvu 👋
 
+### Statistics by Wakatime
+
 <!--
 **intheplan/intheplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
