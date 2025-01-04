@@ -3,10 +3,10 @@
 ### Statistics by Wakatime
 
 #### My coding activities
-<img src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/01284e78-a40c-4d5a-ba44-00ae6ed420b7.svg" />
+<img src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/371e3b23-54f7-4fe8-b17c-fd8420e44b6f.svg" />
 
 #### Languages over Last Year
-<img src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/d951124e-1485-47ed-a506-b58fc68ba31b.svg" />
+<img src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/68e0e595-17ef-4e50-a5bc-a91c1586d972.svg" />
 
 <!--
 **intheplan/intheplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
