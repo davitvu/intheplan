@@ -1,5 +1,5 @@
 ## I'm davitvu 👋
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
   <img style="flex: 1;" src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/271e6711-b472-436c-af61-486fe24fb031.svg" />
   <img style="flex: 1;" src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/d043e753-ae3f-49f2-8928-edebcba160f2.svg" />
   <img style="flex: 1;" src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/d6d115ff-55d7-4a2a-af11-0f119ef7faa9.svg" />
