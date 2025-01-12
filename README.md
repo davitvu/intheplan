@@ -10,7 +10,7 @@
 
 <img src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/383bb6ae-1cac-480d-af76-ee348d019811.svg" />
 
-<img src=https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/dc2ba377-154f-4936-be4a-947588a36772.svg" />
+<img src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/dc2ba377-154f-4936-be4a-947588a36772.svg" />
 
 <!--
 **intheplan/intheplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
