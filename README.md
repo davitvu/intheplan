@@ -1,16 +1,14 @@
 ## I'm davitvu 👋
 
-### Statistics by Wakatime
+<img src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/d6d115ff-55d7-4a2a-af11-0f119ef7faa9.svg" />
 
-#### My coding activities
-<img src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/371e3b23-54f7-4fe8-b17c-fd8420e44b6f.svg" />
+<img src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/cd199553-6e65-49a3-acb0-852f68cecc1a.svg" />
 
-#### Languages over Last Year
-<img src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/68e0e595-17ef-4e50-a5bc-a91c1586d972.svg" />
+<img src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/5166382e-048f-49b9-83a9-d835b31e9fdf.svg" />
 
-<img src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/383bb6ae-1cac-480d-af76-ee348d019811.svg" />
+<img src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/d61a2c00-d177-42d9-a071-6e99deb9ac76.svg" />
 
-<img src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/dc2ba377-154f-4936-be4a-947588a36772.svg" />
+<img src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/5a53905f-a2e1-4a85-a4be-fb379fcf36c7.svg" />
 
 <!--
 **intheplan/intheplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
