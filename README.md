@@ -1,8 +1,8 @@
 ## I'm davitvu 👋
 <div style="display: flex;">
-  <img width="280px" src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/271e6711-b472-436c-af61-486fe24fb031.svg" />
-  <img width="280px" src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/d043e753-ae3f-49f2-8928-edebcba160f2.svg" />
-  <img width="280px" src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/d6d115ff-55d7-4a2a-af11-0f119ef7faa9.svg" />
+  <img width="200px" src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/271e6711-b472-436c-af61-486fe24fb031.svg" />
+  <img width="200px" src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/d043e753-ae3f-49f2-8928-edebcba160f2.svg" />
+  <img width="200px" src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/d6d115ff-55d7-4a2a-af11-0f119ef7faa9.svg" />
 </div
 
 <img src="https://wakatime.com/share/@2119ac9d-94b0-40d1-b0d1-ee6333d3459c/cd199553-6e65-49a3-acb0-852f68cecc1a.svg" />
